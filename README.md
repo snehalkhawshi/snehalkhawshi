@@ -1,5 +1,4 @@
-<p align="center"><a href="https://.github.io"snehalkhawshi><img width="80%" alt="Hello, I'm Snehal" src="/assets/IMG_3954.CR2" /></a></p>
-<h1>Hello I am snehal</h1>
+<p align="center"><a href="https://.github.io"snehalkhawshi><img width="80%" alt="Hello, I'm Snehal" src="/assets/IMG_3954.CR2" /></a></p> 
 
 ---
 
@@ -10,7 +9,7 @@ A mechanical engineer turned **`front-end developer`** with a passion for design
 
 
 - - 💼 Open to worK
-- - 🌱 I’m currently javascript and vue.js
+- - 🌱 I’m currently working on javascript and vue.js.
 - - 💬 Ask me about anything [here](https://github.com/pavanvinjamara/pavanvinjamara/issues)
 
 | <a href="https://github.com/pavanvinjamara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanvinjamara&show_icons=true&theme=radical" alt="Pavan's github stats" /></a> | <a href="https://github.com/pavanvinjamara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanvinjamara&layout=compact&theme=buefy&hide_border=true" /></a> |
