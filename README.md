@@ -1,4 +1,4 @@
-<p align="center"><a href="https://.github.io"snehalkhawshi><img width="80%" alt="Hello, I'm Snehal" src="assets/IMG_3954.CR2" /></a></p>
+<p align="center"><a href="https://.github.io"snehalkhawshi><img width="80%" alt="Hello, I'm Snehal" src="/assets/IMG_3954.CR2" /></a></p>
 <h1>Hello I am snehal</h1>
 
 ---
