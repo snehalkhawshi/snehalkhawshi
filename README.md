@@ -2,7 +2,7 @@
 
 ---
 
-A mechanical engineer turned **`front-end developer`** with a passion for designing and building beautiful, user-friendly websites and applications. Proficient in HTML, CSS, JavaScript, Typescript, React, Java, Bootstrap and DataStructures and Algorithms. Through self-learning, personal projects and joining Fullstack Web Development Bootcamps, I have developed a strong understanding of front-end development principles and practices. I am excited to transition my skills to this dynamic field and contribute to meaningful projects.
+With a year of experience as a Frontend Developer, I bring a blend of technical acumen and creative flair to crafting captivating user experiences. Proficient in Vue.js, JavaScript, HTML5, and CSS, I specialize in building sleek, responsive web applications. My background in electrical engineering enriches my problem-solving abilities, ensuring robust and elegant solutions. Equipped with a solid foundation in Data Structures and Algorithms, I am eager to contribute my skills to dynamic projects and drive meaningful impact in the tech industry.
 
 <br />
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=pavanvinjamara&label=Profile%20views&color=0e75b6&style=flat" alt="pavanvinjamara" /></span>
