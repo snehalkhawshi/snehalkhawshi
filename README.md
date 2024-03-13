@@ -5,14 +5,14 @@
 With a year of experience as a Frontend Developer, I bring a blend of technical acumen and creative flair to crafting captivating user experiences. Proficient in Vue.js, JavaScript, HTML5, and CSS, I specialize in building sleek, responsive web applications. My background in electrical engineering enriches my problem-solving abilities, ensuring robust and elegant solutions. Equipped with a solid foundation in Data Structures and Algorithms, I am eager to contribute my skills to dynamic projects and drive meaningful impact in the tech industry.
 
 <br />
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=pavanvinjamara&label=Profile%20views&color=0e75b6&style=flat" alt="pavanvinjamara" /></span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=snehalkhawshi&label=Profile%20views&color=0e75b6&style=flat" alt="snehalkhawshi" /></span>
 
 
 - - 💼 Open to worK
 - - 🌱 I’m currently working on javascript and vue.js.
-- - 💬 Ask me about anything [here](https://github.com/pavanvinjamara/pavanvinjamara/issues)
+- - 💬 Ask me about anything [here](https://github.com/snehalkhawshi/snehalkhawshi/issues)
 
-| <a href="https://github.com/pavanvinjamara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanvinjamara&show_icons=true&theme=radical" alt="Pavan's github stats" /></a> | <a href="https://github.com/pavanvinjamara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanvinjamara&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/snehalkhawshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=snehalkhawshi&show_icons=true&theme=radical" alt="Pavan's github stats" /></a> | <a href="https://github.com/snehalkhawshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalkhawshi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -49,16 +49,16 @@ With a year of experience as a Frontend Developer, I bring a blend of technical 
 <h2 align="center">Trophies</h2>
 <div align="center">
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=pavanvinjamara)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=snehalkhawshi)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
     
 <div align="center">
     
-![GitHub metrics](https://metrics.lecoq.io/pavanvinjamara)  
+![GitHub metrics](https://metrics.lecoq.io/snehalkhawshi)  
 </div>
     
 <div align="center">
     
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pavanvinjamara)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=snehalkhawshi)  
 </div>
     
