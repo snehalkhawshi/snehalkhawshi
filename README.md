@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/snehalkhawshi">
-    <img width="80%" alt="Hello, I'm Snehal" src="./assets/gh-header-image.png" />
   </a>
 </p> 
 
