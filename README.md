@@ -1,4 +1,8 @@
-<p align="center"><a href="https://.github.io"snehalkhawshi"><img width="80%" alt="Hello, I'm Snehal" src="./assets/IMG_3954.CR2" /></a></p> 
+<p align="center">
+  <a href="https://github.com/snehalkhawshi">
+    <img width="80%" alt="Hello, I'm Snehal" src="./assets/gh-header-image.png" />
+  </a>
+</p> 
 
 ---
 
@@ -7,52 +11,45 @@ With a year of experience as a Frontend Developer, I bring a blend of technical 
 <br />
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=snehalkhawshi&label=Profile%20views&color=0e75b6&style=flat" alt="snehalkhawshi" /></span>
 
+- 💼 Open to work
+- 🌱 I'm currently working on JavaScript and Vue.js
+- 📫 How to reach me: [Add your email or LinkedIn here]
+- 💬 Ask me about anything [here](https://github.com/snehalkhawshi/snehalkhawshi/issues)
 
-- - 💼 Open to work
-- - 🌱 I’m currently working on javascript and vue.js.
-- - 💬 Ask me about anything [here](https://github.com/snehalkhawshi/snehalkhawshi/issues)
+## 📊 GitHub Stats
 
-| <a href="https://github.com/snehalkhawshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=snehalkhawshi&show_icons=true&theme=radical" alt="Pavan's github stats" /></a> | <a href="https://github.com/snehalkhawshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalkhawshi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/snehalkhawshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=snehalkhawshi&show_icons=true&theme=radical&hide_border=true" alt="Snehal's github stats" /></a> | <a href="https://github.com/snehalkhawshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalkhawshi&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+## 🛠️ Technologies & Tools
 
-### Languages
+### Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Other Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+## 🏆 GitHub Trophies
 
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="JAVASCRIPT" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img  align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />                
-<br />
+[![trophy](https://github-profile-trophy.vercel.app/?username=snehalkhawshi&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-#  
+## 📈 Activity Stats
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=snehalkhawshi&theme=radical&hide_border=true)  
 
+---
 
-<h2 align="center">Trophies</h2>
 <div align="center">
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=snehalkhawshi)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+
 </div>
-    
-<div align="center">
-    
-![GitHub metrics](https://metrics.lecoq.io/snehalkhawshi)  
-</div>
-    
-<div align="center">
-    
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=snehalkhawshi)  
-</div>
-    
