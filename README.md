@@ -8,7 +8,7 @@ With a year of experience as a Frontend Developer, I bring a blend of technical 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=snehalkhawshi&label=Profile%20views&color=0e75b6&style=flat" alt="snehalkhawshi" /></span>
 
 
-- - 💼 Open to worK
+- - 💼 Open to work
 - - 🌱 I’m currently working on javascript and vue.js.
 - - 💬 Ask me about anything [here](https://github.com/snehalkhawshi/snehalkhawshi/issues)
 
@@ -33,13 +33,7 @@ With a year of experience as a Frontend Developer, I bring a blend of technical 
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          
-
-                  
-
-
-                    
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />                
 <br />
 
 #  
